@@ -1,8 +1,6 @@
 Project ideas
 =============
 
-Some ideas I have, to make into the project.
-
 Softare as a person
 -------------------
 
@@ -28,7 +26,8 @@ Something learned through senses
 
 ### Memories
 
-.
+Since it is a simulation and will not have the same senses as a human being, some memories will have to be inserted into its database.
+They have to be carefully designed before inserting, as it will have great influence on the software's thoughts.
 
 ### Thoughts
 
